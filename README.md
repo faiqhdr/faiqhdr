@@ -1,6 +1,6 @@
 - 👋 Hey folks!>
 - 👀 I’m interested in design rather than coding tbh.>
-- 🌱 I’m currently learning AI, Software Design & Architecture, App Development n many more in my degree
+- 🌱 I’m currently learning AI, Software Design & Architecture, App Development n many more in my degree.>
 
 <!---
 faiqhdr/faiqhdr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
